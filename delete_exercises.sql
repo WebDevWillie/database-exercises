@@ -14,3 +14,4 @@ WHERE artist = 'Whitney Houston';
 
 describe albums;
 select * from albums;
+
