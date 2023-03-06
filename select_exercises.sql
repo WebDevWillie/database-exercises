@@ -14,7 +14,7 @@ WHERE name = 'nevermind';
 
 SELECT *
 FROM albums
-WHERE release_date >= 1990;
+WHERE release_date BETWEEN 1990 AND 1999;
 
 SELECT *
 FROM albums
