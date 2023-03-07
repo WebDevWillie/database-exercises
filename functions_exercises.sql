@@ -24,3 +24,5 @@ WHERE Month(birth_date)= 12
   AND DAY(birth_date) = 25
   AND year(hire_date) BETWEEN 1990 AND 1999
 ORDER BY hire_date DESC;
+
+DESCRIBE employees;
